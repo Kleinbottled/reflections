@@ -56,16 +56,18 @@ presented      'in house' at a later time. So why waste it now eh?
 How might using version control make you more confident to make
 changes that could break something?
 
-    Being able to easily revert to earlier versions means no penalty to play 
-    around with any or all of the code on your own branch. You make it go boom,
-    you re-sync with no new commits and your back where you started. no one else
-    working on the project is effected. 
+    Being able to easily revert to earlier versions means no penalty
+    to play  around with any or all of the code on your own branch.
+    You make it go boom, you re-sync with no new commits and your back
+    where you started. no one else working on the project is effected.
 
-Now that you have your workspace set up, what do you want to try using Git for?
+Now that you have your workspace set up, what do you want to try using
+Git for?
 
-    Currently using Git and Github for projects related to the Udacity Front-end 
-    Web Developer Nanodegree. Had my workspace set up and working through Windows
-    command prompt. The bash functionality is cool to have though. I plan to use 
-    Git and Github for many things: Backing up my own private projects;
-    Participating in open source projects; Maybe submitting my contributions
-    in a proffessional enviorment.   
+    Currently using Git and Github for projects related to the Udacity
+    Front-end  Web Developer Nanodegree. Had my workspace set up and
+    working through Windows command prompt. The bash functionality is
+    cool to have though. I plan to use  Git and Github for many
+    things: Backing up my own private projects; Participating in open
+    source projects; Maybe submitting my contributions in a
+    proffessional enviorment.
