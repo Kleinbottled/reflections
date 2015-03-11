@@ -1,54 +1,60 @@
-How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+How did viewing a diff between two versions of a file help you see the
+bug that was introduced?
 
-    A tool like diff or CF helps you to find errors by filtering out the bulk of
-    the code that was identical. Limiting what you need to manually compare is a 
-    great aid to efficiency.
+    A tool like diff or CF helps you to find errors by filtering out
+    the bulk of the code that was identical. Limiting what you need to
+    manually compare is a  great aid to efficiency.
 
-How could having easy access to the entire history of a file make you a more
-efficient programmer in the long term?
+How could having easy access to the entire history of a file make you
+a more efficient programmer in the long term?
 
-    The ability to reference back to any previous version of a project prevents 
-    you from having to redo work if you want to go back to an earlier idea. It 
-    would also let you see how a project changes over time; perhaps helping you 
-    refine your iteration process in future work. 
+    The ability to reference back to any previous version of a project
+    prevents  you from having to redo work if you want to go back to
+    an earlier idea. It  would also let you see how a project changes
+    over time; perhaps helping you  refine your iteration process in
+    future work.
 
-What do you think are the pros and cons of manually choosing when to create a
-commit, like you do in Git, vs having versions automatically saved, like Google
-docs does?
+What do you think are the pros and cons of manually choosing when to
+create a commit, like you do in Git, vs having versions automatically
+saved, like Google docs does?
 
-    Well the only pro of auto save is if the power goes out, or your shit
-    crashes, or something, but that can be handled at other levels of the
-    process. The benifits of making a change to the master only at an 
-    intentional point of time are many. For one thing collaboration would become
-    almost impossible if incomplete work is being included in the master randomly.  
+    Well the only pro of auto save is if the power goes out, or your
+    shit crashes, or something, but that can be handled at other
+    levels of the process. The benifits of making a change to the
+    master only at an  intentional point of time are many. For one
+    thing collaboration would become almost impossible if incomplete
+    work is being included in the master randomly.
 
-Why do you think some version control systems, like Git, allow saving multiple
-files in one commit, while others, like Google Docs, treat each file separately?
+Why do you think some version control systems, like Git, allow saving
+multiple files in one commit, while others, like Google Docs, treat
+each file separately?
 
-    Is google Docs even for coders? I wouldnt know. I think I've only used google 
-    docs once a few years ago. We were basically updating a list with it which is 
-    about as simple as it gets. If your doing something less basic where files
-    interact with each other, even a simple web page, you want 'versions' that 
-    are a set of files intended to work together. If you start testing software 
-    with files from different versions I would imagine many problems unfolding
-    rapidly. 
+    Is google Docs even for coders? I wouldnt know. I think I've only
+    used google  docs once a few years ago. We were basically updating
+    a list with it which is  about as simple as it gets. If your doing
+    something less basic where files interact with each other, even a
+    simple web page, you want 'versions' that  are a set of files
+    intended to work together. If you start testing software  with
+    files from different versions I would imagine many problems
+    unfolding rapidly.
 
-How can you use the commands git log and git diff to view the history of files?
+How can you use the commands git log and git diff to view the history
+of files?
 
-     I am very tempted to go elsewhere and spend the 20 min of due 
-    diligence that would be required to pontificate on the power of these 
-    functions, and yet the pattern has been for this material to be presented
-     'in house' at a later time. So why waste it now eh? 
+     I am very tempted to go elsewhere and spend the 20 min of due
+diligence that would be required to pontificate on the power of these
+functions, and yet the pattern has been for this material to be
+presented      'in house' at a later time. So why waste it now eh?
 
-    It occures to me that it is a good thing that I am writing this down. When I 
-    look back over these at the end of the course, if i still dont know what git 
-    log and git diff are about I WILL look it up.      (Honestly, from the names 
-    I can more or less infer what they might do and why that might be useful; But
-    how can I use them? Dunno. Type em in the command promt?)
+    It occures to me that it is a good thing that I am writing this
+    down. When I  look back over these at the end of the course, if i
+    still dont know what git  log and git diff are about I WILL look
+    it up.  (Honestly, from the names  I can more or less infer what
+    they might do and why that might be useful; But how can I use
+    them? Dunno. Type em in the command promt?)
 
-How might using version control make you more confident to make changes that
-could break something?
+How might using version control make you more confident to make
+changes that could break something?
 
     Being able to easily revert to earlier versions means no penalty to play 
     around with any or all of the code on your own branch. You make it go boom,
