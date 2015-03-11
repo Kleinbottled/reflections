@@ -20,7 +20,7 @@ saved, like Google docs does?
 
     Well the only pro of auto save is if the power goes out, or your
     shit crashes, or something, but that can be handled at other
-    levels of the process. The benifits of making a change to the
+    levels of the process. The benefits of making a change to the
     master only at an  intentional point of time are many. For one
     thing collaboration would become almost impossible if incomplete
     work is being included in the master randomly.
@@ -29,8 +29,8 @@ Why do you think some version control systems, like Git, allow saving
 multiple files in one commit, while others, like Google Docs, treat
 each file separately?
 
-    Is google Docs even for coders? I wouldnt know. I think I've only
-    used google  docs once a few years ago. We were basically updating
+    Is Google Docs even for coders? I wouldn't know. I think I've only
+    used Google  docs once a few years ago. We were basically updating
     a list with it which is  about as simple as it gets. If your doing
     something less basic where files interact with each other, even a
     simple web page, you want 'versions' that  are a set of files
@@ -46,12 +46,12 @@ diligence that would be required to pontificate on the power of these
 functions, and yet the pattern has been for this material to be
 presented      'in house' at a later time. So why waste it now eh?
 
-    It occures to me that it is a good thing that I am writing this
+    It occur es to me that it is a good thing that I am writing this
     down. When I  look back over these at the end of the course, if i
-    still dont know what git  log and git diff are about I WILL look
+    still don't know what git  log and git diff are about I WILL look
     it up.  (Honestly, from the names  I can more or less infer what
     they might do and why that might be useful; But how can I use
-    them? Dunno. Type em in the command promt?)
+    them? Dunno. Type em in the command prompt?)
 
 How might using version control make you more confident to make
 changes that could break something?
@@ -70,4 +70,4 @@ Git for?
     cool to have though. I plan to use  Git and Github for many
     things: Backing up my own private projects; Participating in open
     source projects; Maybe submitting my contributions in a
-    proffessional enviorment.
+    professional environment.
