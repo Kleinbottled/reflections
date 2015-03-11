@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creates the .git file structure which is initailized to the directory specified. This allows for the storage of meta data about the history of the files in the directory that we choose to include. It casues the initialized directory to become the 'working directory' for the repository. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area lets you 'tag' items to be included in the commit. This lets you break your commits into logical chunks without having to waste time moving files in and out of a working directory that is also the staging area. The repository is a series of snapshots, called commits, of evolving file(s) or file structure. 
