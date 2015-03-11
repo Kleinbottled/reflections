@@ -1,8 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	It creates the .git file structure which is initailized to the directory
+	It creates the .git file structure which is initialized to the directory
 	specified. This allows for the storage of meta data about the history of
-	the files in the directory that we choose to include. It casues the
+	the files in the directory that we choose to include. It causes the
 	initialized directory to become the 'working directory' for the
 	repository.
 
@@ -19,8 +19,8 @@ What are some situations when branches would be helpful in keeping your
 history organized? How would branches help?
 
 	Branches let you, or anyone with access, explore totally different
-	directions starting from any earlier commit. Branching lets them/you
-	iterate on ideas idependently from the master project. Perhaps later some
+	directions starting from any earlier commit. Branching lets them/ you
+	iterate on ideas independently from the master project. Perhaps later some
 	or all of the features of a branch might be merged into the master.
 
 How do the diagrams help you visualize the branch structure?
@@ -30,9 +30,12 @@ How do the diagrams help you visualize the branch structure?
 	parts of projects together the diagram features of some of these Git GUI's
 	are essential to building a complete final product.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-	Merging incorperates all commits from both branches. It's drawn as a loop
+	Merging incorporates all commits from both branches. It's drawn as a loop
 	in the diagram. This shows that everything is connected and yet there are
 	two paths back to the original shared commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?	
+
+	A 'pro' of always doing manual merges would be perhaps gaining a deep understanding of how conflicting pieces of code interact. Maybe. Having as much as possible automated takes a hell of a lot of boring work out of the equation. Huge pro. Con might be a slight lack of knowledge on how the merge physically occurred.    
