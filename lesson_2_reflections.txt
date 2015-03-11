@@ -29,3 +29,10 @@ How do the diagrams help you visualize the branch structure?
 	between branches. I reckon when you want to start merging features or
 	parts of projects together the diagram features of some of these Git GUI's
 	are essential to building a complete final product.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	Merging incorperates all commits from both branches. It's drawn as a loop
+	in the diagram. This shows that everything is connected and yet there are
+	two paths back to the original shared commit.
