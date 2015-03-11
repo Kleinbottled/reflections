@@ -13,3 +13,17 @@ Git automatically stay up-to-date with your remote repository?
 	only more so. Why would you want the stuff you are working on to
 	change as you are working on it? You seriously might lose your
 	mind.
+
+Describe the differences between forks, clones, and branches. When
+would you use one instead of another?
+
+	A clone is a straight up copy. To make a branch, a clone is
+	modified and the changes are saved in a commit under a different
+	branch name, leaving the master (or other original) unchanged.
+	That branch is local only unless one pushes it to a remote such as
+	GitHuB. Once a new branch is on GitHub, we might think of it as
+	informally forked. Offical forking is a function that happens
+	internally at the GitHub level. A Clone is made of the repository
+	within GitHub itself, with pointers refering back to the original
+	project. Best to fork if you are trying to collaberate. Allows for
+	pull requests.
