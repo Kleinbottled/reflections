@@ -22,8 +22,18 @@ would you use one instead of another?
 	branch name, leaving the master (or other original) unchanged.
 	That branch is local only unless one pushes it to a remote such as
 	GitHuB. Once a new branch is on GitHub, we might think of it as
-	informally forked. Offical forking is a function that happens
+	informally forked. Official forking is a function that happens
 	internally at the GitHub level. A Clone is made of the repository
-	within GitHub itself, with pointers refering back to the original
-	project. Best to fork if you are trying to collaberate. Allows for
+	within GitHub itself, with pointers referring back to the original
+	project. Best to fork if you are trying to collaborate. Allows for
 	pull requests.
+
+What is the benefit of having a copy of the last known state of the
+remote stored locally?
+
+	If your going to be off-line for a while, your information about
+	the state of the rest of the project is as up to date as possible.
+	This lets you, in a case where you're merging, for instance. Work
+	out all. most of the merge conflicts in an off line state. Later
+	when you can pull again, you will only have to resolve conflicts
+	that have arisen since you updated your local 'origin/ master'.
