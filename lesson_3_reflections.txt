@@ -37,3 +37,13 @@ remote stored locally?
 	out all. most of the merge conflicts in an off line state. Later
 	when you can pull again, you will only have to resolve conflicts
 	that have arisen since you updated your local 'origin/ master'.
+
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+
+	Guess that depends what brand of version control you went with
+	instead of Git/ Github. If what the questioner meant to ask
+	was,"How would you collaborate without version control?" I guess
+	they used to throw rocks at each other or something. Or was it
+	'send files?' That must have been more Fluster-Cluckin' than a
+	ferret in a hen house.
