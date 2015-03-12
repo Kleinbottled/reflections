@@ -47,3 +47,13 @@ easier, and what would be harder?
 	they used to throw rocks at each other or something. Or was it
 	'send files?' That must have been more Fluster-Cluckin' than a
 	ferret in a hen house.
+
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+	One benefit of making changes in a branch first is it lets you
+	take advantage of the 'pull request' functionality within Github.
+	Also it lets you complete a feature or idea before altering
+	something that might already be in a functional state. Saving
+	directly to master is fewer steps. If what your doing is simple
+	enough, and/ or non-collaborative, this might make more sense.
